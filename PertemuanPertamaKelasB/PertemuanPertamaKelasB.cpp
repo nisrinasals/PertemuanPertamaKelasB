@@ -18,4 +18,4 @@ int main()
 	cin >> nLebar;
 	nLuas = nPanjang * nLebar;
 	cout << "Luasnya adalah = " << nLuas << endl;
-}
+}//end
